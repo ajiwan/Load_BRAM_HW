@@ -1,0 +1,3 @@
+verilog work "ipcore_dir/bram.v"
+verilog work "ipcore_dir/bram_synth.v"
+verilog work "bram_dm.v"

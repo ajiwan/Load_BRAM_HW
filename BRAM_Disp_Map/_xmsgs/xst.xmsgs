@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\ipcore_dir\px_in_fifo.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">px_in_fifo</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\tb.v" Line 71: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">rd_data_count</arg>&gt;. Formal port size is <arg fmt="%d" index="2">10</arg>-bit while actual signal size is <arg fmt="%d" index="1">11</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\ipcore_dir\bram.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">bram</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\load_bram.v" Line 64: Result of <arg fmt="%d" index="1">24</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\load_bram.v" Line 65: Result of <arg fmt="%d" index="1">29</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\load_bram.v" Line 66: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\load_bram.v" Line 70: Assignment to <arg fmt="%s" index="1">din_bram_low_grey</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\load_bram.v" Line 72: Result of <arg fmt="%d" index="1">24</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\load_bram.v" Line 73: Result of <arg fmt="%d" index="1">29</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\load_bram.v" Line 74: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\tb.v" Line 98: Assignment to <arg fmt="%s" index="1">wr_clk_bram</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\tb.v" Line 102: Assignment to <arg fmt="%s" index="1">busy</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\tb.v" Line 25: Net &lt;<arg fmt="%s" index="1">rst</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"C:\fpga\ISE\Load_BRAM_HW\BRAM_Disp_Map\tb.v" Line 75: Input port <arg fmt="%s" index="1">clkb</arg> is not connected on this instance
+</msg>
+
+</messages>

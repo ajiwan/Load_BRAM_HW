@@ -1,0 +1,4 @@
+verilog work "load_bram.v"
+verilog work "ipcore_dir/px_in_fifo.v"
+verilog work "ipcore_dir/bram.v"
+verilog work "tb.v"
